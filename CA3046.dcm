@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CA3046
+D CA3046 NPN Transistor
+K NPN Transistor
+$ENDCMP
+#
+#End Doc Library

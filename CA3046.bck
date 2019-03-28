@@ -1,0 +1,57 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BC846BPDW1
+D 100mA IC, 65V Vce, Dual NPN/PNP Transistors, SOT-363
+K NPN Transistor/PNP
+F http://www.onsemi.com/pub_link/Collateral/BC846BPDW1T1-D.PDF
+$ENDCMP
+#
+$CMP BC846BPN
+D 100mA IC, 65V Vce, Dual NPN/PNP Transistors, SOT-363
+K NPN Transistor/PNP
+F https://assets.nexperia.com/documents/data-sheet/BC846BPN.pdf
+$ENDCMP
+#
+$CMP BC847BPDW1
+D 100mA IC, 45V Vce, Dual NPN/PNP Transistors, SOT-363
+K NPN Transistor/PNP
+F http://www.onsemi.com/pub_link/Collateral/BC846BPDW1T1-D.PDF
+$ENDCMP
+#
+$CMP BC847BPN
+D 100mA IC, 45V Vce, Dual NPN/PNP Transistors, SOT-363
+K NPN Transistor/PNP
+F http://www.nxp.com/documents/data_sheet/BC847BPN.pdf
+$ENDCMP
+#
+$CMP FFB2227A
+D 500mA IC, 30V Vce, Dual NPN/PNP Transistors, SC-70-6
+K NPN Transistor/PNP
+F http://www.onsemi.com/pub/Collateral/FMB2227A-D.PDF
+$ENDCMP
+#
+$CMP FFB3946
+D 200mA IC, 40V Vce, Dual NPN/PNP Transistors, SOT-363
+K NPN Transistor/PNP
+F http://www.onsemi.com/pub/Collateral/FMB3946-D.pdf
+$ENDCMP
+#
+$CMP MBT3946DW1T1
+D 200mA IC, 40V Vce, Dual NPN/PNP Transistors, SOT-363
+K NPN Transistor/PNP
+F http://www.onsemi.com/pub_link/Collateral/MBT3946DW1T1-D.PDF
+$ENDCMP
+#
+$CMP MMDT3946
+D 200mA IC, 40V Vce, Dual NPN/PNP Transistors, SOT-363
+K NPN Transistor/PNP
+F http://www.diodes.com/_files/datasheets/ds30123.pdf
+$ENDCMP
+#
+$CMP PMBT3946YPN
+D 200mA IC, 40V Vce, Dual NPN/PNP Transistors, SOT-363
+K NPN Transistor/PNP
+F http://www.nxp.com/documents/data_sheet/PMBT3946YPN.pdf
+$ENDCMP
+#
+#End Doc Library
