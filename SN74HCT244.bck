@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN74HCT244
+D Octal-Channel Buffer & Line Driver, 3-State, 20-Pin TSSOP
+K Octal-Channel Buffer
+F http://www.ti.com/lit/ds/symlink/sn74hct244.pdf
+$ENDCMP
+#
+#End Doc Library

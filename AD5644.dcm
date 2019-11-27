@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD5644
+D 14-Bit 4 Channel DAC, MSOP-10
+K DAC SPI digital analog converter
+F https://docs-emea.rs-online.com/webdocs/10ad/0900766b810ada8b.pdf
+$ENDCMP
+#
+#End Doc Library

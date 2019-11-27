@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.4
 DEF Eurorack_10_pin_power J 0 40 Y N 1 F N
 F0 "J" 50 300 50 H V C CNN
 F1 "Eurorack_10_pin_power" 50 -300 50 H V C CNN
-F2 "" 0 0 50 H I C CNN
+F2 "Custom_Footprints:Eurorack_10_pin_header" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  Connector*:*2x??x*mm*
