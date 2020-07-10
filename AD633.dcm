@@ -1,3 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AD633_DIP
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD633.pdf
+$ENDCMP
+#
+$CMP AD633_SOIC
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD633.pdf
+$ENDCMP
+#
 #End Doc Library
