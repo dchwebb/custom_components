@@ -1,0 +1,32 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BA7807FP-E2
+D LDO DPAK TO-252-2 7V 1A
+K DPAK TO-252 7V Voltage Regulator 1A
+F https://datasheet.lcsc.com/szlcsc/1809301322_ROHM-Semicon-BA7807FP-E2_C79648.pdf
+$ENDCMP
+#
+$CMP DDPAK_LDO
+D DDPAK 1.5A 3.3V LDO
+K DDPAK 1.5A 3.3V LDO
+F https://docs.rs-online.com/8711/0900766b8137ee06.pdf
+$ENDCMP
+#
+$CMP DPAK_LDO_TO252
+D LDO DPAK TO-252-2
+K Voltage Regulator LDO DPAK TO-220 1A 7V
+$ENDCMP
+#
+$CMP MCP1827S
+D DDPAK 1.5A 3.3V LDO
+K DDPAK 1.5A 3.3V LDO
+F https://docs.rs-online.com/8711/0900766b8137ee06.pdf
+$ENDCMP
+#
+$CMP NCV1117DT33T5G
+D LDO DPAK TO-252 1A 3.3V
+K LDO DPAK TO-252 1A 3.3V
+F https://datasheet.lcsc.com/szlcsc/1809192013_ON-Semiconductor-NCV1117DT33T5G_C20625.pdf
+$ENDCMP
+#
+#End Doc Library

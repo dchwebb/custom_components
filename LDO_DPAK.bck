@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BA7807FP-E2
+D Positive 1A 35V Linear Regulator, Fixed Output 24V, TO-220/TO-263
+K Voltage Regulator 1A Positive
+F https://datasheet.lcsc.com/szlcsc/1809301322_ROHM-Semicon-BA7807FP-E2_C79648.pdf
+$ENDCMP
+#
+$CMP DDPAK_LDO
+D DDPAK 1.5A 3.3V LDO
+K DDPAK 1.5A 3.3V LDO
+F https://docs.rs-online.com/8711/0900766b8137ee06.pdf
+$ENDCMP
+#
+$CMP DPAK_LDO_TO252
+D Positive 1A 35V Linear Regulator, Fixed Output 24V, TO-220/TO-263
+K Voltage Regulator 1A Positive
+F http://www.ti.com/lit/ds/symlink/ua78.pdf
+$ENDCMP
+#
+$CMP MCP1827S
+D DDPAK 1.5A 3.3V LDO
+K DDPAK 1.5A 3.3V LDO
+F https://docs.rs-online.com/8711/0900766b8137ee06.pdf
+$ENDCMP
+#
+$CMP ROHM_Semicon_BA7807FP-E2
+D Positive 1A 35V Linear Regulator, Fixed Output 24V, TO-220/TO-263
+K Voltage Regulator 1A Positive
+F https://datasheet.lcsc.com/szlcsc/1809301322_ROHM-Semicon-BA7807FP-E2_C79648.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LD1117-3.3-4Tab
+D 1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223
+K linear regulator ldo
+F http://www.diodes.com/datasheets/AP1117.pdf
+$ENDCMP
+#
+#End Doc Library

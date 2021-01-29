@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM2675M-ADJ
+D 12V, 500mA Step-Down Voltage Regulator, SO-8
+K Step-Down Voltage Regulator 12V 500mA
+F http://www.ti.com/lit/ds/symlink/lm2674.pdf
+$ENDCMP
+#
+#End Doc Library
