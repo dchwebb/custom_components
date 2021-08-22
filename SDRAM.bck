@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IS42S16160
+D 64Mb Synchronous DRAM, 1 Mb x 16 b x 4 Banks, Cu leadframe plated with matte Sn, TSOP-II-54
+K DRAM MEMORY
+F http://www.issi.com/WW/pdf/42-45S16400J.pdf
+$ENDCMP
+#
+#End Doc Library
