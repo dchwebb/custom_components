@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP MAX5134
-D Maxim MAX5134AGUE+, 4-Channel Serial DAC, 16-Pin TSSOP
-K 16-bit DAC 4CH
-F https://datasheets.maximintegrated.com/en/ds/MAX5134-MAX5137.pdf
-$ENDCMP
-#
-#End Doc Library

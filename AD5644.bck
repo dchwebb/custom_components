@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP AD5644
-D 14-Bit, DAC, MSOP-10
-K DAC SPI digital analog converter
-F https://www.analog.com/media/en/technical-documentation/data-sheets/AD5693R_5692R_5691R_5693.pdf
-$ENDCMP
-#
-#End Doc Library
